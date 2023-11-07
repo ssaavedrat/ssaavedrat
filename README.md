@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-¡Hola! Soy un ingeniero eléctrico graduado de la Universidad de Chile, con un diploma en ciencia de datos y actualmente inmerso en un curso de Ruby on Rails. Con una sólida experiencia como product manager en el ámbito de la telemática GPS, me he destacado como líder en este campo. Originario de Santiago, CL, mi pasión por la tecnología me ha llevado a buscar un cambio de rumbo hacia el emocionante mundo de la tecnología de la información. Como jefe de producto y consultor, he gestionado proyectos innovadores y he brindado soluciones creativas en el campo de la GPS y videotelemática. Mi formación como ingeniero civil eléctrico me ha proporcionado una base sólida para abordar desafíos complejos y encontrar soluciones efectivas. Estoy abierto a nuevas oportunidades y desafíos en el ámbito de la tecnología de la información. Pueden encontrarme en GitHub, a través de mi correo electrónico (ssaavedrat@gmail.com) o en LinkedIn para conocer más sobre mi experiencia y habilidades. ¡Espero tener la oportunidad de colaborar en proyectos emocionantes y disruptivos!
-
 <!-- 
 **ssaavedrat/ssaavedrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
